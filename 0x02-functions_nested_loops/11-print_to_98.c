@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_to_98 - This function prints natural 
+ * print_to_98 - This function prints natural
  * numbers numbers
  *
  * @n : this is the function parameter
