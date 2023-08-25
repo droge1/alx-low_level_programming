@@ -1,10 +1,4 @@
 #include <stdio.h>
-#include "main.h"
-/**
- * main - This is the entry point of the magic program.
- *
- * Return: Alway 0.
- */
 
 int main(void)
 {
